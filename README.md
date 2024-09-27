@@ -32,4 +32,18 @@
 #
 #
 #
+# SAMPLE INPUT FILE
+# I was born on April 12th, 2005. I was born in Vietnam. I first ate cheese on January 20th, 2010.
+#
+#
+#
+# SAMPLE OUTPUT
+# On Console: "Hello! This program detects all dates in a text file. Enter a file name: " *enters story.txt*
+# On Console: ""Now enter a file name that you want the dates to appear in: " *enters output.txt*
+# On output.txt: "April 12th, 2005
+#                 January 20th, 2010
+#                 Hello! you have 2 dates."
+#
+#
+#
 # Thank you for spending time reading the README. I hope the program works! It is a great project to test my knowledge and boundary in grep and regular expressions.
