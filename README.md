@@ -24,3 +24,12 @@
 #
 # MOTIVATION
 # The goal of this project is for me to gain practice in regular expressions and grep. Before this project, I have only worked with grep once and was new in regular expressions. However, I learned so much about many ways you can shape regular expressions and creativity also becomes its fullest. One indirect impact is that I grow more fond of Unix and that I was able to explore more commands that can make this project work.
+#
+#
+#
+# COMMENTS
+# In the code there are comments and pseudocodes. The pseudocodes help explain the overall function of the program. The comments explain each component of the program and each format of the regex.
+#
+#
+#
+# Thank you for spending time reading the README. I hope the program works! It is a great project to test my knowledge and boundary in grep and regular expressions.
