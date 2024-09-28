@@ -1,7 +1,7 @@
 # project1CS3377
 # Author: Nguyen Do (npd220001), CS 3377 003
 # Project name: Date_Extractinator_9000 (i made that up sorry)
-# This program extracts date from the user's input of a text file. The script name is project1.sh
+  This program extracts date from the user's input of a text file. The script name is project1.sh
 # Before starting the program.
 # Please read the instruction below:
 # INSTRUCTIONS
