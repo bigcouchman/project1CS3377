@@ -2,6 +2,7 @@
 # Author: Nguyen Do (npd220001), CS 3377 003
 # Project name: Date_Extractinator_9000 (i made that up sorry)
   This program extracts date from the user's input of a text file. The script name is project1.sh
+  Important notice: While testing the program I only test it in the Terminal with my input and output files available. When testing my program make sure you use the Terminal! I use MobaXTerm
   Before starting the program.
   Please read the instruction below:
 # INSTRUCTIONS
